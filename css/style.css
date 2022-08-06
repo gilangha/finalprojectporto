@@ -1,0 +1,26 @@
+.title {
+  text-align: center;
+  margin-bottom: 32px;
+  color: blue;
+}
+.paragraf {
+  text-align: justify;
+  margin-bottom: 24px;
+  font-size: 20px;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+  top:0;
+  left:0;
+  z-index: 1;
+}
+
+.image-portfolio {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.teamimg{
+  border-radius: 50%;
+}
